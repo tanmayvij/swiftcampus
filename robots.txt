@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /rss
+Disallow: /demo
+Disallow: /err
+Disallow: /instances
+Disallow: /payment
